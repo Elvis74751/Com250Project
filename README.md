@@ -1,2 +1,2 @@
 # Com250Project
-Com-250 Project. Utilizing Python to create a Spotify like application where a user can pick from a list of songs on a homepage, add it to their playlist, and play the song. Should have VLC media player installed on computer before running application.
+Com-250 Project. Utilizing Python to create a Spotify like application where a user imports a folder filled with songs that the application stores in its library. The user can then search for a song and pick from a list of songs fitting that search on a homepage, add it to their playlist, and play the song. Should have download pygame module in order to have the songs actually play.
